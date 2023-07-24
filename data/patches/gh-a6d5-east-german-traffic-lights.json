@@ -1,0 +1,68 @@
+{
+	"id": -1,
+	"name": "East German Traffic Lights",
+	"description": "The typical traffic light from former GDR picturing a man with a hat.",
+	"links": {
+		"website": [
+			"https://www.ampelmann.de/"
+		]
+	},
+	"path": {
+		"153-182": [
+			[
+				-453,
+				-986
+			],
+			[
+				-452,
+				-995
+			],
+			[
+				-444,
+				-1000
+			],
+			[
+				-421,
+				-1000
+			],
+			[
+				-414,
+				-996
+			],
+			[
+				-412,
+				-990
+			],
+			[
+				-412,
+				-927
+			],
+			[
+				-415,
+				-920
+			],
+			[
+				-421,
+				-915
+			],
+			[
+				-441,
+				-915
+			],
+			[
+				-449,
+				-918
+			],
+			[
+				-452,
+				-926
+			]
+		]
+	},
+	"center": {
+		"153-182": [
+			-432,
+			-959
+		]
+	}
+}
